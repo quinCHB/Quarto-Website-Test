@@ -1,0 +1,13 @@
+---
+title: "Red Lake"
+---
+
+About this site
+
+```{r}
+1 + 1
+```
+
+Update website
+
+watch this

@@ -8,13 +8,35 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - All on One Page.qmd
+      - NW8.qmd
+      - Polk CHB.qmd
+      - Quin County CHB.qmd
+      - Kittson.qmd
+      - Mahnomen.qmd
+      - Marshall.qmd
+      - Norman.qmd
+      - Pennington.qmd
+      - Polk.qmd
+      - Red Lake.qmd
+      - Roseau.qmd
       - about.qmd
+    tools:
+      - icon: twitter-x
+        href: https://x.com/
+      - icon: facebook
+        href: https://www.facebook.com/sharer/sharer.php?u=example.org
+      - icon: instagram
+        href: https://instagram.com
+      - icon: github
+        href: https://github.com/YOURUSERNAME/YOURREPO
 
 format:
   html:
     theme: cosmo
     css: styles.css
     toc: true
+    toc-title: Contents
+    toc-location: left
 
 editor: visual
-

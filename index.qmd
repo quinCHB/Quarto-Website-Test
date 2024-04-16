@@ -9,3 +9,11 @@ To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 ```{r}
 1 + 1
 ```
+
+```{r}
+5*5
+```
+
+```{r} 
+5/5
+```

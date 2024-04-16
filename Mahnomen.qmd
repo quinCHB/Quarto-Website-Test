@@ -5,9 +5,5 @@ title: "Mahnomen"
 About this site
 
 ```{r}
-1 + 1
+1 + 1 + 5
 ```
-
-Update website
-
-watch this

@@ -2,12 +2,4 @@
 title: "Polk"
 ---
 
-About this site
-
-```{r}
-1 + 1
-```
-
-Update website
-
-watch this
+This tab will be used if Polk ever has a public emergency specific to only Polk

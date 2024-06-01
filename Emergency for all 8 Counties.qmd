@@ -1,0 +1,39 @@
+---
+title: "Emergency for all 8 Counties"
+format: html
+---
+
+This tab will be used if there is an emergency situation that applies to all NW8 jurisdictions. 
+
+# NW8
+Contact information for the NW8 and related information
+
+# P, N, & M CHB
+Contact information for P, N, & M CHB and related information
+
+# Quin County CHB
+Contact information for Quin County CHB and related information
+
+# Kittson
+Contact information for Kittson County and related information
+
+# Mahnomen
+Contact information for Mahnomen County and related information
+
+# Marshall
+Contact information for Marshall County and related information
+
+# Norman
+Contact information for Norman County and related information
+
+# Pennington
+Contact information for Pennington County and related information
+
+# Polk
+Contact information for Polk County and related information
+
+# Red Lake
+Contact information for Red Lake County and related information
+
+# Roseau
+Contact information for Roseua County and related information

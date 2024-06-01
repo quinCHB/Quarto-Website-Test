@@ -2,12 +2,4 @@
 title: "Roseau"
 ---
 
-About this site
-
-```{r}
-1 + 1
-```
-
-Update website
-
-watch this
+This tab will be used if Roseau ever has a public emergency specific to only Roseau

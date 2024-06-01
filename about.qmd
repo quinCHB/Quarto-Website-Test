@@ -2,12 +2,18 @@
 title: "About"
 ---
 
-About this site
+This website is a tool to help with emergency preparedness.
 
-```{r}
-1 + 1
-```
+-   **Mission**: To provide real-time, reliable information during emergencies.
 
-Update website
+-   **Purpose**: Ensuring community safety and preparedness.
 
-watch this
+-   **Commitment**: Delivering clear, actionable guidance.
+
+-   **Updates**: Offering consistent, up-to-date emergency notifications.
+
+-   **Connectivity**: Keeping the community connected for immediate response.
+
+-   **Safety First**: Prioritizing your safety in urgent situations.
+
+Remember, in times of crisis, every second counts. Stay informed and stay safe.

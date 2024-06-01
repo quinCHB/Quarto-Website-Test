@@ -3,23 +3,27 @@ project:
   output-dir: docs
 
 website:
-  title: "Quarto Website"
+  title: "title required but not displayed"
   navbar:
+    title: false
     left:
-      - href: index.qmd
-        text: Home
-      - All on One Page.qmd
-      - NW8.qmd
-      - Polk CHB.qmd
-      - Quin County CHB.qmd
-      - Kittson.qmd
-      - Mahnomen.qmd
-      - Marshall.qmd
-      - Norman.qmd
-      - Pennington.qmd
-      - Polk.qmd
-      - Red Lake.qmd
-      - Roseau.qmd
+      - text: "Emergency Preparedness NW8"
+        href: index.qmd
+      - Emergency for all 8 Counties.qmd
+      - text: "CHB Specific"
+        menu:
+          - P, N, & M CHB.qmd
+          - Quin County CHB.qmd
+      - text: "County Specific"
+        menu:
+          - Kittson.qmd
+          - Mahnomen.qmd
+          - Marshall.qmd
+          - Norman.qmd
+          - Pennington.qmd
+          - Polk.qmd
+          - Red Lake.qmd
+          - Roseau.qmd
       - about.qmd
     tools:
       - icon: twitter-x

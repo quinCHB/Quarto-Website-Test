@@ -2,8 +2,4 @@
 title: "Mahnomen"
 ---
 
-About this site
-
-```{r}
-1 + 1 + 5
-```
+This tab will be used if Mahnomen ever has a public emergency specific to only Mahnomen

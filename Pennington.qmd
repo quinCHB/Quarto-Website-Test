@@ -2,12 +2,4 @@
 title: "Pennington"
 ---
 
-About this site
-
-```{r}
-1 + 1
-```
-
-Update website
-
-watch this
+This tab will be used if Pennington ever has a public emergency specific to only Pennington

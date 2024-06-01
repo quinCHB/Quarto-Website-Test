@@ -2,12 +2,4 @@
 title: "Quin County CHB"
 ---
 
-About this site
-
-```{r}
-1 + 1
-```
-
-Update website
-
-watch this
+This tab will be used if Quin CHB ever has a public emergency specific to only Quin CHB
